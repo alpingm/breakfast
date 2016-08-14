@@ -1,6 +1,6 @@
 # The Breakfast Data Set
 
-The breakfast data set is an energy consumption data set. Gathered from fridges in five different households. It also contains a fabricated aggregated energy trace. 
+The breakfast data set is an energy consumption data set. Gathered from fridges in five different households. It also contains a fabricated aggregated energy trace. All files except household 4 contains 1 week of energy consumption data, which is 604800 data points.
 
 Households
   - household1.dat
